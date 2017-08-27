@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]">
+  <test name="LoginAndLinksCheck(failed)">
+    <classes>
+      <class name="com.sandeep.stjosephchurch.HyperLinksCheck">
+        <methods>
+          <include name="afterClass"/>
+          <include name="billList"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="billing"/>
+          <include name="newProduct"/>
+          <include name="productList"/>
+        </methods>
+      </class> <!-- com.sandeep.stjosephchurch.HyperLinksCheck -->
+    </classes>
+  </test> <!-- LoginAndLinksCheck(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
